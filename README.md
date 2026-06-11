@@ -1,4 +1,4 @@
-🎵 João Music
+
 
 Clone simples da interface do Spotify desenvolvido para praticar HTML, CSS e JavaScript.
 
